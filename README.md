@@ -121,7 +121,7 @@ Where $MAX_I$ is the maximum possible pixel value of the image (since the inputs
 
 #### 1. Clone the Repository
 ```bash
-git clone [https://github.com/jfito4356/DL-P4-Autoencoder-CIFAR10-Image-Restoration.git](https://github.com/jfito4356/DL-P4-Autoencoder-CIFAR10-Image-Restoration.git)
+git clone [https://github.com/NoFtorio/DL-P4-Autoencoder-CIFAR10-Image-Restoration.git](https://github.com/NoFtorio/DL-P4-Autoencoder-CIFAR10-Image-Restoration.git)
 cd DL-P4-Autoencoder-CIFAR10-Image-Restoration
 ```
 
